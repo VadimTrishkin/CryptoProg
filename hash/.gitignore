@@ -1,0 +1,5 @@
+filehash
+*.o
+*.exe
+*.out
+*.log
