@@ -1,0 +1,4 @@
+
+cryptofile
+*.o
+*.tmp
